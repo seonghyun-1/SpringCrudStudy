@@ -9,7 +9,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class PostRequestDto {
     private String title;
-    private String username;
-    private String password;
+    //private String username;
+    //private String password;
     private String contents;
 }
